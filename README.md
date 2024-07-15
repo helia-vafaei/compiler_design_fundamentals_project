@@ -1,17 +1,10 @@
 # compiler_design_fundamentals_project
-# The implemented metrics are:
-Albrecht’s Function Points Metrics
-<br>
-Metrics-Based Estimation Models (COCOMO Mode)
-<br>
-Ejiogu’s Software Metrics
-<br>
-Halstead’s Software Metrics
-<br>
-Henry and Kafura’s Information Metrics
-<br>
-McCabe’s Cyclomatic complexity metrics
-<br>
-Readability Metrics
-<br>
-Reliability Metrics
+The implemented metrics are:
+1. Albrecht’s Function Points Metrics
+2. Metrics-Based Estimation Models (COCOMO Mode)
+3. Ejiogu’s Software Metrics
+4. Halstead’s Software Metrics
+5. Henry and Kafura’s Information Metrics
+6. McCabe’s Cyclomatic complexity metrics
+7. Readability Metrics
+8. Reliability Metrics
